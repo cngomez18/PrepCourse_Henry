@@ -1,2 +1,1 @@
-# PrepCourse_Henry
-este es un repositorio de prueba
+Este es un repositorio de prueba pra el Prep Course de Soy Henry
